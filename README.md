@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Fullstack Developer | MERN Stack Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;React+Lover+%F0%9F%92%9A;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Frontend+Developer;React+Lover;Open+Source+Contributor" />
 </p>
 
 ---
