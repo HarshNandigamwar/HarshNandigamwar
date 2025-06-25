@@ -1,18 +1,61 @@
-# 💫 About Me:
-👋 Hi, I'm Shriharsh Nandigamwar.<br>💻 Passionate about AI & Development.<br>🌱 Currently learning & exploring the world of programming.
+<h1 align="center">💫 Hey there! I'm <span style="color:#00ff00">Shriharsh Nandigamwar</span> </h1>
+<h3 align="center">Passionate Fullstack Developer | MERN Stack Enthusiast </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;React+Lover+%F0%9F%92%9A;Open+Source+Contributor" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/harsh_nandigamwar?igsh=MW8yY3VzYTY0d245YQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shriharsh-nandigamwar-b106702b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Harsh477011?s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandigamwarharsh@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshNandigamwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarshNandigamwar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNandigamwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Backend Optimization**.
+- 💬 Ask me about **React.js, Redux, Firebase, MongoDB, Node.js, Tailwind CSS**.
+- 🌐 Portfolio: [shriharshnandigamwar.netlify.app](https://shriharshnandigamwar.netlify.app/)
+- 📫 Reach me: **nandigamwarharsh@gmail.com**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HarshNandigamwar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,firebase,c,cpp,python,git,github,vscode,netlify" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshNandigamwar&show_icons=true&theme=dark" height="200"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshNandigamwar&theme=dark&hide_border=false" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNandigamwar&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshNandigamwar&theme=dark&no-bg=true&no-frame=true&margin-w=10&row=2&column=4" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshNandigamwar&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:nandigamwarharsh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+  <a href="https://www.linkedin.com/in/shriharsh-nandigamwar-b106702b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://www.instagram.com/harsh_nandigamwar?igsh=MW8yY3VzYTY0d245YQ=="><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+</p>
