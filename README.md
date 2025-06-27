@@ -1,10 +1,5 @@
 <h1 align="center">💫 Hey there! I'm <span style="color:#00ff00">Shriharsh Nandigamwar</span> </h1>
 <h3 align="center">Passionate Fullstack Developer | MERN Stack Enthusiast </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Frontend+Developer;React+Lover;Open+Source+Contributor" />
-</p>
-
 ---
 
 - 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Backend Optimization**.
