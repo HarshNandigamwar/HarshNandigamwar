@@ -1,4 +1,5 @@
-<h1 align="center">💫 Hey there! I'm <span style="color:#00ff00">Shriharsh Nandigamwar</span> </h1>
+<h1 align="center">💫 Hey there! I'm <span style="color:#00ff00">Shriharsh Nandigamwar</span> </h1>Add commentMore actions
+<h3 align="center">Passionate Fullstack Developer | MERN Stack Enthusiast </h3>
 
 ---
 
