@@ -54,5 +54,5 @@
   <a href="mailto:nandigamwarharsh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
   <a href="https://www.linkedin.com/in/shriharsh-nandigamwar-b106702b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
   <a href="https://www.instagram.com/harsh_nandigamwar?igsh=MW8yY3VzYTY0d245YQ=="><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
-  <a href="https://x.com/Harsh477011?s=09"><img src="https://skillicons.dev/icons?i=Twitter" height="30"/></a>
+  <a href="https://x.com/Harsh477011?s=09"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
 </p>
