@@ -23,9 +23,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshNandigamwar&show_icons=true&theme=dark" height="200"/>
   &nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshNandigamwar&theme=dark&hide_border=false" height="200"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNandigamwar&layout=compact&theme=dark" />
 </p>
