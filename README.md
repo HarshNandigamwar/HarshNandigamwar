@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Backend Optimization**.
 - 💬 Ask me about **React.js, Redux, Firebase, MongoDB, Node.js, Tailwind CSS**.
-- 🌐 Portfolio: [shriharshnandigamwar.netlify.app](https://shriharshnandigamwar.netlify.app/)
+- 🌐 Portfolio: [shriharshnandigamwar.vercel.app](https://shriharshnandigamwar.vercel.app)
 - 📫 Reach me: **nandigamwarharsh@gmail.com**
 
 ---
