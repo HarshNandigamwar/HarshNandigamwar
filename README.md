@@ -1,15 +1,11 @@
 <h1 align="center">💫 Hey there! I'm <span style="color:#00ffff">Shriharsh Nandigamwar</span> </h1>
 <h3 align="center">Passionate Fullstack Developer | MERN Stack Enthusiast </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Frontend+Developer;React+Lover;Open+Source+Contributor" />
-</p>
-
 ---
 
 - 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Backend Optimization**.
 - 💬 Ask me about **React.js, Redux, Firebase, MongoDB, Node.js, Tailwind CSS**.
-- 🌐 Portfolio: [shriharshnandigamwar.netlify.app](https://shriharshnandigamwar.netlify.app/)
+- 🌐 Portfolio: [shriharshnandigamwar.vercel.app](https://shriharshnandigamwar.vercel.app)
 - 📫 Reach me: **nandigamwarharsh@gmail.com**
 
 ---
@@ -17,7 +13,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,firebase,c,cpp,python,git,github,vscode,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,firebase,c,cpp,python,java,git,github,vscode,replit,netlify,vercel" />
 </p>
 
 ---
@@ -27,9 +23,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshNandigamwar&show_icons=true&theme=dark" height="200"/>
   &nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshNandigamwar&theme=dark&hide_border=false" height="200"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNandigamwar&layout=compact&theme=dark" />
 </p>
@@ -58,4 +55,5 @@
   <a href="mailto:nandigamwarharsh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
   <a href="https://www.linkedin.com/in/shriharsh-nandigamwar-b106702b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
   <a href="https://www.instagram.com/harsh_nandigamwar?igsh=MW8yY3VzYTY0d245YQ=="><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="https://x.com/Harsh477011?s=09"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
 </p>
