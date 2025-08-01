@@ -1,5 +1,5 @@
 <h1 align="center">💫 Hey there! I'm <span style="color:#00ffff">Shriharsh Nandigamwar</span> </h1>
-<h3 align="center">Passionate Fullstack Developer | MERN Stack Enthusiast </h3>
+<h3 align="center">Fullstack Developer | MERN Stack Enthusiast </h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 💬 Ask me about **React.js, Redux, Firebase, MongoDB, Node.js, Tailwind CSS**.
 - 🌐 Portfolio: [shriharshnandigamwar.vercel.app](https://shriharshnandigamwar.vercel.app)
 - 📫 Reach me: **nandigamwarharsh@gmail.com**
-- <p> <img src="https://komarev.com/ghpvc/?username=HarshNandigamwar&label=Profile%20views&color=66CCFF&style=flat-square" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HarshNandigamwar&label=Profile%20views&color=66CCFF&style=flat-square" /></p>
 
 ---
 
