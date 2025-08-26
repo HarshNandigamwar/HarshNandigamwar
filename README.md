@@ -10,7 +10,7 @@
 - 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Data Structures & Algorithms**.
 - 💬 Ask me about **React.js, Redux, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**.
 - 🌐 Portfolio: [shriharshnandigamwar.vercel.app](https://shriharshnandigamwar.vercel.app)
-- 📫 Reach me: **pritampmandal@gmail.com**
+- 📫 Reach me: **nandigamwarharsh@gmail.com**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshNandigamwar&label=Profile%20views&color=66CCFF&style=flat-square" alt="Harsh Nandigamwar" />
 </p>
