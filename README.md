@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Frontend+Wizard+%F0%9F%9A%80;Backend+Builder+%F0%9F%9B%A0%EF%B8%8F;React+Lover+%F0%9F%92%9A;Open+Source+Contributor" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 - 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Data Structures & Algorithms**.
 - 💬 Ask me about **React.js, Redux, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**.
@@ -14,8 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshNandigamwar&label=Profile%20views&color=66CCFF&style=flat-square" alt="Harsh Nandigamwar" />
 </p>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ### 🛠️ Tech Stack
 
@@ -23,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,firebase,c,cpp,python,java,git,github,vscode,replit,netlify,vercel" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ### 📊 GitHub Stats & Activity
 
@@ -37,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNandigamwar&layout=compact&theme=tokyonight" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ### 🏆 GitHub Achievements
 
@@ -45,7 +44,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HarshNandigamwar&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&row=2&column=4" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ### 🔥 Contribution Graph
 
@@ -53,7 +52,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshNandigamwar&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ### 🌐 Connect with Me
 
