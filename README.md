@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 - 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Data Structures & Algorithms**.
-- 💬 Ask me about **React.js, Redux, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**.
+- 💬 Ask me about **React.js, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**.
 - 🌐 Portfolio: [shriharshnandigamwar.vercel.app](https://shriharshnandigamwar.vercel.app)
 - 📫 Reach me: **nandigamwarharsh@gmail.com**
 <p align="center">
@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,firebase,c,cpp,python,java,git,github,vscode,replit,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,vscode,replit,netlify,vercel" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -28,7 +28,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshNandigamwar&show_icons=true&theme=tokyonight" height="200"/>
-  &nbsp;&nbsp;
+  </p>
+
+  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshNandigamwar&theme=dark&hide_border=false" height="200"/>
 </p>
 
