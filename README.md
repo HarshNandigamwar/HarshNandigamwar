@@ -59,13 +59,13 @@
 
 <!-- General stats card -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HarshNandigamwar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="450" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarshNandigamwar&show_icons=true&theme=tokyonight" height="200"/>
 <br/>
 <!-- GitHub streak stats -->
 <img src="https://streak-stats.demolab.com/?user=HarshNandigamwar&theme=dark&hide_border=false" width="450" />
 <br/>
 <!-- Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNandigamwar&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNandigamwar&layout=compact&theme=tokyonight" />
 </p>
 </details>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -82,7 +82,6 @@
 ### Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
 
 ### 🌐 Connect with Me
 
